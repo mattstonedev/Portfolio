@@ -2,10 +2,10 @@
 
 ### Description
 
-My first project with Treehouse for the Frontend Developer TechDegree.  I expect this portfolio will evolve and grow as I continue to work through more Treehouse projects.  More to come...
+My first project with Treehouse for the Frontend Developer TechDegree.  I expect this portfolio will evolve and grow as I continue to work through more Treehouse projects.  More to come... :smile:
 
 ## Links
-[Portfolio](https://mattstonedev.github.io/portfolio/)
+[Portfolio](https://mattstonedev.github.io/portfolio/)  
 [GitHub Page](https://github.com/mattstonedev)
 
 ## License
